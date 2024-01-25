@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "giget": "^1.2.1"
+    "giget": "^1.2.1",
+    "node-fetch-native": "^1.6.1"
   }
 }
